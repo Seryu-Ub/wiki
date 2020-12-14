@@ -14,7 +14,7 @@ Il est possible de collecter des badges, visible sur le [profil](https://discord
 <br />
 
 ## Les badges des maisons hypesquad <img src= "https://i.discord.fr/N5s.png" width="17" height="17" /> <img src= "https://i.discord.fr/ig0.png" width="17" height="17" /> <img src= "https://i.discord.fr/bVC.png" width="17" height="17" />
-> *Il y a longtemps, un grand esprit maléfique est sorti de son sommeil et a ravagé la terre. Au moment ou l"humanité en avait besoin, trois héros ont émergé de la lumière et ont vaincu les mauvais esprits. L'humanité était tellement exalté que de nos jours, ces héros sont honorés grâce au programme des maisons HypeSquad.*
+> *Il y a longtemps, un grand esprit maléfique est sorti de son sommeil et a ravagé la terre. Au moment où l'humanité en avait besoin, trois héros ont émergé de la lumière et ont vaincu les mauvais esprits. L'humanité était tellement exalté que de nos jours, ces héros sont honorés grâce au programme des maisons HypeSquad.*
 
 <img src="https://i.discord.fr/MIU.png" width="672" height="250" />
 
@@ -40,11 +40,11 @@ Ce badge est réservé aux membres participant à l'HypeSquad et qui assistent �
 ## Le badge partenaire <img src= "https://i.discord.fr/5nB.png" width="17" height="17" />
 <img src="https://i.discord.fr/jIZ.png" />
 
-> *Le programme de partenariat discord est conçu pour récompenser les serveurs de qualité et engagés ayant une certaine visibilité, en offrant des outils supplémentaires pour les aider à s'investir dans leur communauté. Un badge partenaire à coté du nom du serveur, signifie qu'il s'agit de l'une des meilleurs communautés.*
+> *Le programme de partenariat discord est conçu pour récompenser les serveurs de qualité et engagés ayant une certaine visibilité, en offrant des outils supplémentaires pour les aider à s'investir dans leur communauté. Un badge partenaire à côté du nom du serveur, signifie qu'il s'agit de l'une des meilleures communautés.*
 
 Tout le monde peut postuler, mais il faut que le serveur remplisse des conditions, qui sont accessibles, tout comme la candidature, directement dans les paramètres du serveur. 
 
-Pour plus d'informations, [rendez vous sur l'article concernant le sujet](https://discord.fr/wiki)
+Pour plus d'informations, [rendez-vous sur l'article concernant le sujet](https://discord.fr/wiki)
 
 
 <br />
@@ -75,7 +75,7 @@ Tout comme le précédent, **ce badge est devenu inobtenable** pour les vérific
 <img src="https://i.discord.fr/gbB.png" />
 Ce badge indique qu'un membre a souscrit à discord Nitro Classic ou discord Nitro. Passer sa souris dessus indique la date de souscription. Il disparaît à la fin de l'abonnement nitro.
 
-> *Quelques caratéristiques issues de l'article discord permettant de les reconnaitre : spammer leurs propres émojis personnalisés, dire à voix haute leur pseudo comme si celui-ci était un vrai mot et afficher une image de profil animée de leur animé préféré.*
+> *Quelques caractéristiques issues de l'article discord permettant de les reconnaitre : spammer leurs propres émojis personnalisés, dire à voix haute leur pseudo comme si celui-ci était un vrai mot et afficher une image de profil animée de leur animé préféré.*
 
 <br />
 
@@ -85,7 +85,7 @@ Ce badge est attribué aux utilisateurs ayant discord nitro (10$) et boostant un
 
 <br />
 
-**Une spécifité unique à ce badge est son caractère évolutif selon les durées suivantes :**
+**Une spécificité unique à ce badge est son caractère évolutif selon les durées suivantes :**
 <img src="https://i.discord.fr/jZ6.png" width="700" height="175" />
 
 <br />
@@ -110,6 +110,6 @@ Quand à celui-ci, il est donné à partir du Tiers 5 `Bug Terminator` sur le se
 ## Le badge Staff Discord <img src= "https://i.discord.fr/BbZ.png" width="17" height="17" />
 <img src="https://i.discord.fr/wcg.png" />
 
-> *Originaire de la région de la baie de San Francisco, cette personne passe la majeure partie de sa semaine au quartier général de Discord en pensant à la prochaine nouveauté à ajouter pour améliorer l'expérience des utilisateurs tout en rêvant au jour ou une machine à crème glacée arrivera dans les locaux*
+> *Originaire de la région de la baie de San Francisco, cette personne passe la majeure partie de sa semaine au quartier général de Discord en pensant à la prochaine nouveauté à ajouter pour améliorer l'expérience des utilisateurs tout en rêvant au jour où une machine à crème glacée arrivera dans les locaux*
 
-Ce badge est réservé aux employers de discord. Il est possible de postuler sur la [page discord spécifique](https://discord.com/jobs), mais il est nécessaire de pouvoir travailler dans leurs locaux et bien évidemment de parler anglais.
+Ce badge est réservé aux employés de discord. Il est possible de postuler sur la [page discord spécifique](https://discord.com/jobs), mais il est nécessaire de pouvoir travailler dans leurs locaux et bien évidemment de parler anglais.

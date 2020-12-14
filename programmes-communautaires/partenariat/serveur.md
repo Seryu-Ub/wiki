@@ -10,7 +10,7 @@ keywords:
 description: Les serveurs partenaires sur Discord
 ---
 
-Le partenariat discord est, pour nombre d'utilisateurs  discord, un _eldorado_, de par les avantages obtenus par les partenaires discord, mais aussi pour les serveurs partenaires, mais aussi par une reconnaissance officielle de discord pour une communauté. 
+Le partenariat discord est, pour nombre d'utilisateurs  discord, un _eldorado_, par les avantages obtenus ou encore les partenaires discord, mais aussi pour les serveurs partenaires, mais aussi par une reconnaissance officielle de discord pour une communauté. 
 Dans cet article, nous découvrirons le partenariat discord pour le serveur.
 
 ## Comment devenir un serveur partenaire ?
@@ -20,12 +20,12 @@ Dans cet article, nous découvrirons le partenariat discord pour le serveur.
  ![Activer la communauté du serveur](https://i.discord.fr/y2u.png)
  
  Il faut tout d'abord configurer la communauté, Discord guide les utilisateurs tout au long de l'opération. 
- Pour cela, il faut:
+ Pour cela, il faut :
  - Activer dans les paramètres de sécurité le niveau "Faible" : une adresse e-mail
  - Activer l'analyse des contenus médias des membres.
  - Paramétrer les notifications par défaut sur @mentions uniquement.
  - Retirer la permission à tout le monde de mentionner @everyone.
- - Accepter la [charte d'utilisation des serveurs commmunautaires](https://support.discord.com/hc/fr/articles/360035969312-Lignes-de-conduite-des-serveurs-communautaires) de discord.
+ - Accepter la [charte d'utilisation des serveurs communautaires](https://support.discord.com/hc/fr/articles/360035969312-Lignes-de-conduite-des-serveurs-communautaires) de discord.
  - Définir un salon des règles/conditions d'utilisation et un salon pour les annonces discord.
  
  #### Serveurs communautaires
@@ -40,7 +40,7 @@ Dans cet article, nous découvrirons le partenariat discord pour le serveur.
  Les conditions suivantes sont nécessaires pour postuler :
  - Avoir au moins 500 membres.
  - Avoir au moins 50 personnes actives (communiquant) sur le serveur par semaine.
- - Avoir au moins 100 visiteurs, qui ne participent pas forcément, mais qui "visitent le srveur".
+ - Avoir au moins 100 visiteurs, qui ne participent pas forcément, mais qui "visitent le serveur".
  - Sur les utilisateurs "visitant" le serveur, il faut que 20 % ne quittent pas le serveur, et ce chaque semaine sur une durée totale de 8 semaines.
  
  Les statistiques de serveurs sont disponibles ici : https://discord.com/developers/servers/
@@ -51,7 +51,7 @@ Dans cet article, nous découvrirons le partenariat discord pour le serveur.
  
  #### Une bannière d'invitation de serveur personnalisée 
  
-La bannière personnalisée se trouve à l'arriere plan d'une invitation, elle s'obtient également au le niveau 1 de [boosts de serveur](https://discord.fr/nitro-jeux/boost-serveur/boost.md).
+La bannière personnalisée se trouve à l'arrière-plan d'une invitation, elle s'obtient également au le niveau 1 de [boosts de serveur](https://discord.fr/nitro-jeux/boost-serveur/boost.md).
 
 ![Bannière d'invitation de serveur](https://i.discord.fr/Y06.png)
 

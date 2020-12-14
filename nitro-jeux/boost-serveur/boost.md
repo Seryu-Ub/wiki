@@ -25,7 +25,7 @@ Un niveau de serveur est un palier qui permet de débloquer des avantages au sei
 
 ![Exemple boost](https://i.discord.fr/fda.png)
 
-Voici les fonctionnalités qui peuvent être débloquées à chaque palier:
+Voici les fonctionnalités qui peuvent être débloquées à chaque palier :
 
 #### ![Niveau 1](https://i.discord.fr/Mqp.png)
 * 50 emplacements supplémentaire d'émoji du serveur (pour un total de 100)
@@ -50,6 +50,6 @@ Voici les fonctionnalités qui peuvent être débloquées à chaque palier:
 * Limite de téléchargement pour tous les membres de 100Mo
 
 ### Comment procéder à l'achat de boost ?
-Pour cela, il faut se rendre sur le serveur en question, et cliquer sur "Boost de serveur". Si l'utilisateur possède des boosts incluses dans un abonnement Nitro, il peut également donner ses boosts au serveur avec le même bouton.
+Pour cela, il faut se rendre sur le serveur en question, et cliquer sur "Boost de serveur". Si l'utilisateur possède des boosts inclus dans un abonnement Nitro, il peut également donner ses boosts au serveur avec le même bouton.
 
 ![Achat boost](https://i.discord.fr/Qel.gif)

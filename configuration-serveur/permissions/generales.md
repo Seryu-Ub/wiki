@@ -20,7 +20,7 @@ Il n'est pas non plus possible de gérer l'A2F ; si celle-ci est rendue obligato
 
 ![Logs du serveur](https://i.discord.fr/fwp.png)
 
-Les membres ayant cette permission ont accès au logs du serveur permettant de consulter un certain nombre d'actions effectuées sur celui-ci.
+Les membres ayant cette permission ont accès aux logs du serveur permettant de consulter un certain nombre d'actions effectuées sur celui-ci.
 Il est également possible de filtrer ces actions par utilisateurs et/ou par type d'actions.
 
 ![Filtres des actions](https://i.discord.fr/46i.png)

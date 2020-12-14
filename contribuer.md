@@ -63,14 +63,14 @@ Il faudra à l'équipe moins d'une semaine pour examiner votre modification. Cep
 ### Comment ajouter une page au Wiki #
 
 #### Créer une page vide prête à être remplie
-Rendez-vous sur la page [GitHub du Wiki](https://github.com/discordfr/wiki), ensuite choississez "Add File" puis "Create new file".
+Rendez-vous sur la page [GitHub du Wiki](https://github.com/discordfr/wiki), ensuite choisissez "Add File" puis "Create new file".
 
 ![Add file button](https://i.discord.fr/wtU.png)
 
 #### Ajouter le contenu de base
 Comme pour la modification, entrez le contenu initial de la page. Veillez à la mettre en page grâce au Markdown ; vous trouverez une boîte d'aide plus bas dans cet article. (Numéro 1)
 
-Une fois le contenu rempli, indiquez ce que cette page initial contient, et si possible, ajoutez des sources. (Numéro 2)
+Une fois le contenu rempli, indiquez ce que cette page initiale contient, et si possible, ajoutez des sources. (Numéro 2)
 
 :::danger Attention !!!
 Pensez à nommer votre fichier en haut (wiki/nom). **Mettez impérativement `.md` à la fin du fichier ; sans cela, votre page ne fonctionnera pas et sera rejetée**.
@@ -92,7 +92,7 @@ Une fois que vous êtes certain du contenu, cliquez sur "Create pull request". (
 ![Pull Request Creation addpage](https://i.discord.fr/Pwy.png)
 
 #### Création de la Pull Request
-Ici, vous pouvez pour la dernière fois modifier le titre et le commentaire d'ajout. Vérifiez s'il est complet et si possible sourcé (un article du support anglophonne par exemple). **Attention ! N'oubliez pas de préciser votre ID d'utilisateur Discord pour que nous puissions garder votre compte de contribution à jour !** (Numéro 1)
+Ici, vous pouvez pour la dernière fois modifier le titre et le commentaire d'ajout. Vérifiez-s'il est complet et si possible sourcé (un article du support anglophone par exemple). **Attention ! N'oubliez pas de préciser votre ID d'utilisateur Discord pour que nous puissions garder votre compte de contribution à jour !** (Numéro 1)
 
 Enfin, pour terminer votre travail, cliquez sur "Create pull request". (Numéro 2)
 
